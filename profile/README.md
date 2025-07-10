@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="70%" src="./Media Kit/Icons/icon-bitpolito-bull&cow.svg" alt="BitPolito Logo" />
+  <img width="70%" src="./icon-bitpolito-bull&cow.svg" alt="BitPolito Logo" />
 </p>
 
-# Welcome to **BitPolito**'s GitHub organization page.
+# Welcome to **BitPolito**'s GitHub organization page
 
 BitPolito is a student team at the *Politecnico di Torino* with the mission of bridging academia and the Bitcoin industry. The team contributes to open-source projects in the industry, organizes events and training courses, participates in international competitions and conferences, and publishes educational content. Currently, BitPolito has around 50 active members. Over the past five years, it has grown to include more than 200 members, with 25 of them now working in the Bitcoin industry.
 
@@ -15,12 +15,12 @@ BitPolito currently has public GitHub repositories:
 ## Contacts
 You can find us on the following platforms.
 
-[<img height="35" width="35" src="./Media Kit/Social/telegram.png" alt="BitPolito | Telegram Forum" />][telegram] &nbsp;
-[<img height="35" width="35" src="./Media Kit/Social/instagram.png" alt="BitPolito | Instagram" />][instagram] &nbsp;
-[<img height="35" width="35" src="./Media Kit/Social/x.png" alt="BitPolito | X" />][X] &nbsp;
-[<img height="35" width="35" src="./Media Kit/Social/linkedin.png" alt="BitPolito | LinkedIn" />][linkedin] &nbsp;
-[<img height="35" width="35" src="./Media Kit/Social/spotify.png" alt="BitPolito | Spotify" />][spotify] &nbsp;
-[<img height="35" width="35" src="./Media Kit/Social/youtube.png" alt="BitPolito | YouTube" />][youtube] &nbsp;
+[<img height="35" width="35" src="./telegram.png" alt="BitPolito | Telegram Forum" />][telegram] &nbsp;
+[<img height="35" width="35" src="./instagram.png" alt="BitPolito | Instagram" />][instagram] &nbsp;
+[<img height="35" width="35" src="./x.png" alt="BitPolito | X" />][X] &nbsp;
+[<img height="35" width="35" src="./linkedin.png" alt="BitPolito | LinkedIn" />][linkedin] &nbsp;
+[<img height="35" width="35" src="./spotify.png" alt="BitPolito | Spotify" />][spotify] &nbsp;
+[<img height="35" width="35" src="./youtube.png" alt="BitPolito | YouTube" />][youtube] &nbsp;
 
 #### You can also contact us via email at [info.bitpolito@protonmail.com](mailto:info@bitpolito.it)
 
