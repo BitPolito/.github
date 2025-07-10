@@ -19,7 +19,7 @@ You can find us on the following platforms.
 [<img height="35" width="35" src="./instagram.png" alt="BitPolito | Instagram" />][instagram] &nbsp;
 [<img height="35" width="35" src="./x.png" alt="BitPolito | X" />][X] &nbsp;
 [<img height="35" width="35" src="./linkedin.png" alt="BitPolito | LinkedIn" />][linkedin] &nbsp;
-[<img height="35" width="35" src="./email.png" alt="BitPolito | LinkedIn" />][email] &nbsp;
+[<img height="35" width="35" src="./email.png" alt="BitPolito | Email" />][email] &nbsp;
 [<img height="35" width="35" src="./spotify.png" alt="BitPolito | Spotify" />][spotify] &nbsp;
 [<img height="35" width="35" src="./youtube.png" alt="BitPolito | YouTube" />][youtube] &nbsp;
 
